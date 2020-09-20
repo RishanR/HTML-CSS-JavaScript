@@ -1,2 +1,2 @@
 # HTML-CSS-JavaScript
-HTML, CSS, and JavaScript course work and projects
+HTML, CSS, and JavaScript Coursera course work and projects
